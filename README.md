@@ -9,9 +9,6 @@ git clone https://github.com/WaywardGame/ridiculoushairdos.git
 cd ridiculoushairdos
 ```
 
-## Building:
-Open the folder in Visual Studio Code and build with Ctrl+Shift+B.
-
 ## Steam Workshop
 [http://steamcommunity.com/sharedfiles/filedetails/?id=879852137](http://steamcommunity.com/sharedfiles/filedetails/?id=879852137)
 
