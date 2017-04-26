@@ -8,8 +8,13 @@
 		"#0af",
 		"#a0f"
 	],
+	"skin-colors": [
+		"#ccc",
+		"#333"
+	],
 	"hair-styles": [
 		"Pompadour",
-		"Handy"
+		"Handy",
+		"Spiderman"
 	]
 }
