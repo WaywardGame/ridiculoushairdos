@@ -14,11 +14,3 @@ cd ridiculoushairdos
 
 ## Screenshots
 ![Ridiculous Hairdos](https://raw.githubusercontent.com/WaywardGame/ridiculoushairdos/master/mod.png "Ridiculous Hairdos")
-
-![Screenshot #1]( "Screenshot #1")
-
-![Screenshot #2]( "Screenshot #2")
-
-![Screenshot #3]( "Screenshot #3")
-
-![Screenshot #4]( "Screenshot #4")
