@@ -6,14 +6,23 @@
 		"#ff0",
 		"#0fa",
 		"#0af",
-		"#a0f"
+		"#33b",
+		"#43a",
+		"#a0f",
+		"#801",
+		"#474"
 	],
 	"skin-colors": [
+		"#e8c6d1",
+		"#bb97a3",
+		"#845e6c",
 		"#ccc",
 		"#333"
 	],
 	"hair-styles": [
+		"Neko",
 		"Pompadour",
+		"Demon",
 		"Handy",
 		"Spiderman"
 	]
