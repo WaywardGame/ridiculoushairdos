@@ -14,3 +14,5 @@ cd ridiculoushairdos
 
 ## Screenshots
 ![Ridiculous Hairdos](https://raw.githubusercontent.com/WaywardGame/ridiculoushairdos/master/mod.png "Ridiculous Hairdos")
+
+![Screenshot #1](https://steamuserimages-a.akamaihd.net/ugc/936055893420698510/8641C6CFCB7CC42C14CE03676CF444E173837680/ "Screenshot #1")
