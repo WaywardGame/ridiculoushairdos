@@ -4,8 +4,11 @@
 	"version": "1.2.0",
 	"author": "Yuudaari",
 	"customizations": true,
-	"publishedFileId": "879852137",
+	"tags": [
+		"Character"
+	],
 	"compatibleMinorVersions": [
-		5, 6
-	]
+		5, 6, 7
+	],
+	"publishedFileId": "879852137"
 }
