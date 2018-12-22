@@ -4,9 +4,6 @@
 	"version": "1.2.0",
 	"author": "Yuudaari",
 	"customizations": true,
-	"tags": [
-		"Character"
-	],
 	"compatibleMinorVersions": [
 		5, 6, 7
 	],
