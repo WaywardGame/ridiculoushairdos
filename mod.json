@@ -2,7 +2,8 @@
 	"name": "Ridiculous Hairdos",
 	"description": "Because normal hairdos are boring!",
 	"version": "1.2.0",
-	"author": "Yuudaari",
+	"author": "Chirichirichiri",
+	"github": "https://github.com/WaywardGame/ridiculoushairdos",
 	"customizations": true,
 	"publishedFileId": "879852137"
 }
