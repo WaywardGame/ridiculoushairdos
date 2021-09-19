@@ -10,7 +10,7 @@ cd ridiculoushairdos
 ```
 
 ## Steam Workshop
-[http://steamcommunity.com/sharedfiles/filedetails/?id=879852137](http://steamcommunity.com/sharedfiles/filedetails/?id=879852137)
+[https://steamcommunity.com/sharedfiles/filedetails/?id=879852137](https://steamcommunity.com/sharedfiles/filedetails/?id=879852137)
 
 ## Screenshots
 ![Ridiculous Hairdos](https://raw.githubusercontent.com/WaywardGame/ridiculoushairdos/master/mod.png "Ridiculous Hairdos")
